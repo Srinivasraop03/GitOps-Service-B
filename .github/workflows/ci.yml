@@ -6,7 +6,7 @@ on:
     paths-ignore: ["deploy/**"]
 
 env:
-  IMAGE_NAME: Srinivasraop03/gitops-service-b
+  IMAGE_NAME: srinivasraop03/gitops-service-b
   DEPLOYMENT_FILE: ./deploy/deployment.yaml
 
 jobs:
